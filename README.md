@@ -1,4 +1,4 @@
 SimpleWebView
 =============
 
-single web view application for iOS
+WebView application of single page for iOS
